@@ -44,7 +44,7 @@ i.e la valeur de la population après un instant est donnée par la valeur à l'
 
 Ainsi, N(t + $\delta$ t) = $\delta$ t (a - b)N(t)
 
-$\frac{N(t + $\delta$ t) - N(t)}{$\delta$ t}$ = rN(t)
+\frac{N(t + $\delta$ t) - N(t)}{$\delta$ t} = rN(t)
 
 Donc N'(t) = rN(t)
 
