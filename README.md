@@ -38,12 +38,12 @@ Posons:
 
 On a: 
 
-N(t + $\deltat) = N(t) + $\delta$t (aN(t) -bN(t))
+N(t + $\delta$ t) = N(t) + [ $\delta$ t (aN(t) -bN(t))]
 
 i.e la valeur de la population après un instant est donnée par la valeur à l'instant considéré au départ plus la variation du temps multipliée par la différence du nombre de la population influencé par les natalités et mortalités.  
 
-Ainsi, N(t + $\delta$t) = $\delta$t (a - b)N(t)
-[N(t + $\delta$t) - N(t)] / $\delta$t = rN(t)
+Ainsi, N(t + $\delta$ t) = $\delta$ t (a - b)N(t)
+[N(t + $\delta$ t) - N(t)] / $\delta$ t = rN(t)
 
 Donc N'(t) = rN(t)
 
